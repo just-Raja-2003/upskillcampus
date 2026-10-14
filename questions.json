@@ -1,0 +1,29 @@
+[
+    {"topic": "General", "question": "What is the capital of France?", "options": ["London", "Paris", "Berlin", "Madrid"], "answer": 1},
+    {"topic": "General", "question": "Who wrote 'Hamlet'?", "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"], "answer": 1},
+    {"topic": "General", "question": "How many continents are there on Earth?", "options": ["5", "6", "7", "8"], "answer": 2},
+    {"topic": "General", "question": "What is the largest ocean on Earth?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": 3},
+    {"topic": "General", "question": "Which language is the most widely spoken in the world?", "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"], "answer": 2},
+    {"topic": "General", "question": "What is the currency of Japan?", "options": ["Yuan", "Won", "Yen", "Ringgit"], "answer": 2},
+
+    {"topic": "Science", "question": "Which planet is known as the Red Planet?", "options": ["Venus", "Jupiter", "Mars", "Saturn"], "answer": 2},
+    {"topic": "Science", "question": "What is the boiling point of water in Celsius?", "options": ["80°C", "90°C", "100°C", "110°C"], "answer": 2},
+    {"topic": "Science", "question": "Which gas do plants absorb from the atmosphere?", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "answer": 2},
+    {"topic": "Science", "question": "What is the chemical symbol for water?", "options": ["H2O", "CO2", "NaCl", "HCl"], "answer": 0},
+    {"topic": "Science", "question": "What is the speed of light approximately?", "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "100,000 km/s"], "answer": 0},
+    {"topic": "Science", "question": "Which element is essential for strong bones?", "options": ["Iron", "Calcium", "Potassium", "Zinc"], "answer": 1},
+    {"topic": "Science", "question": "What is the square root of 144?", "options": ["10", "11", "12", "13"], "answer": 2},
+    {"topic": "Science", "question": "How many bones are in the adult human body?", "options": ["206", "208", "210", "212"], "answer": 0},
+
+    {"topic": "History", "question": "In which year did the Titanic sink?", "options": ["1905", "1912", "1920", "1931"], "answer": 1},
+    {"topic": "History", "question": "Who painted the Mona Lisa?", "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"], "answer": 1},
+    {"topic": "History", "question": "Who developed the first vaccine?", "options": ["Louis Pasteur", "Edward Jenner", "Jonas Salk", "Albert Sabin"], "answer": 1},
+    {"topic": "History", "question": "Who invented the telephone?", "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"], "answer": 1},
+    {"topic": "History", "question": "Which country has the most people?", "options": ["USA", "India", "China", "Brazil"], "answer": 1},
+
+    {"topic": "Geography", "question": "What is the largest desert in the world?", "options": ["Sahara", "Gobi", "Kalahari", "Antarctic"], "answer": 3},
+    {"topic": "Geography", "question": "Which planet is closest to the Sun?", "options": ["Venus", "Mercury", "Earth", "Mars"], "answer": 1},
+    {"topic": "Geography", "question": "What is the tallest animal in the world?", "options": ["Elephant", "Giraffe", "Camel", "Horse"], "answer": 1},
+    {"topic": "Geography", "question": "How many players are there in a football team?", "options": ["9", "10", "11", "12"], "answer": 2},
+    {"topic": "Geography", "question": "What is the capital of France?", "options": ["London", "Paris", "Berlin", "Madrid"], "answer": 1}
+]
